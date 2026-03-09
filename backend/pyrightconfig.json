@@ -1,0 +1,14 @@
+{
+  "include": ["app"],
+  "exclude": ["venv", "__pycache__", ".pyre"],
+  "venvPath": ".",
+  "venv": "venv",
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "off",
+  "useLibraryCodeForTypes": true,
+  "reportMissingImports": false,
+  "reportMissingModuleSource": false,
+  "reportGeneralTypeIssues": false,
+  "reportAttributeAccessIssue": false,
+  "reportReturnType": false
+}
